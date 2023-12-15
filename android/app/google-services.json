@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596310945410",
+    "project_id": "mydreamvoyagess-58405",
+    "storage_bucket": "mydreamvoyagess-58405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596310945410:android:0e42f158d976765bcd4e9b",
+        "android_client_info": {
+          "package_name": "com.example.mydreamvoyagess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgSfUsp4Ws50SapuX7JMd2yl4RJ-L8gS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
